@@ -1,2 +1,2 @@
-# Pranksomeware
-This is a fake prank ransomeware written in batch by me :D
+# Fake Files
+These files redirect you to a prank website and fullscreen 
